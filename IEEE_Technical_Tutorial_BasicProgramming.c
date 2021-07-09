@@ -1,7 +1,7 @@
 /*==============================================================================
 ************************* BASIC PROGRAMMING TUTORIAL ***************************
 ============== Instrcutors: Omar Hany (Derwy) - Mohamed Ashraf (Wx) ============
- = = = Copyrights @ Coded & Develobed by Mohamed Ashraf / Omar Derwy = = = = = =
+ = = = Copyrights @ Coded & Develobed by Mohamed Ashraf = = = = = =
 ********************************************************************************
   Learning:
  * 1: Data Types.
@@ -9,7 +9,6 @@
  * 3: While loop.
  * 4: For loop.
 ==============================================================================*/
-
 
  #include <stdio.h> // Library that includes standard input output E2U functions.
  #include <stdlib.h>
